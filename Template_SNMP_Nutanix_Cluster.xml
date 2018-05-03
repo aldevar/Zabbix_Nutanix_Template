@@ -82,7 +82,7 @@
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Cluster IO Bandwitch</name>
+                    <name>Cluster IO Bandwidth</name>
                     <type>6</type>
                     <snmp_community/>
                     <multiplier>1</multiplier>
@@ -1057,7 +1057,7 @@
                             </application_prototypes>
                         </item_prototype>
                         <item_prototype>
-                            <name>Disk {#SNMPINDEX} IO Bandwitdth</name>
+                            <name>Disk {#SNMPINDEX} IO Bandwidth</name>
                             <type>6</type>
                             <snmp_community/>
                             <multiplier>1</multiplier>
